@@ -1,0 +1,8 @@
+DST-PORT,9987
+DST-PORT,10011
+DST-PORT,30033
+DOMAIN-SUFFIX,hpool.com
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,parsecgaming.com
